@@ -1,0 +1,2 @@
+# syren
+Ethereum wallet
